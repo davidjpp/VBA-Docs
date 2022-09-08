@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Page.Name property (Visio)
 
-Specifies the name of an object. Read-only.
+Specifies the name of an object. Read/write.
 
 
 ## Syntax
