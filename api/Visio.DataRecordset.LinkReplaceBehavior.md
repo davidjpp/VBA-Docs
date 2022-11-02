@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 Gets or sets how existing links between shapes and data rows are handled when methods that link shapes to data is called. Read/write.
 
 > [!NOTE] 
-> This Visio object or member is available only to licensed users of Visio Professional 2013.
+> This Visio object or member is available only to licensed users of Visio Professional and Visio Plan 2.
 
 
 ## Syntax
