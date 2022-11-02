@@ -18,7 +18,7 @@ Returns an XML string that fully describes a data recordset and conforms to the 
 
 
 > [!NOTE] 
-> This Visio object or member is available only to licensed users of Visio Professional 2013.
+> This Visio object or member is available only to licensed users of Visio Professional and Visio Plan 2.
 
 
 ## Syntax
