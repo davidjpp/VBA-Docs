@@ -18,7 +18,7 @@ Gets the data graphic master (**Master** object of type **visTypeDataGraphic**) 
 
 
 > [!NOTE] 
-> This Visio object or member is available only to licensed users of Visio Professional 2013.
+> This Visio object or member is available only to licensed users of Visio Professional and Visio Plan 2.
 
 
 ## Syntax
