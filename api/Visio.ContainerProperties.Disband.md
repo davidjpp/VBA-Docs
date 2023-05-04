@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 # ContainerProperties.Disband method (Visio)
 
 Removes all member shapes from the container and deletes the container shape.
-
+Note: The User.msvSDContainerNoRibbon cell value must be TRUE before using this method
 
 ## Syntax
 
